@@ -1,0 +1,17 @@
+{
+  "name": "play_server",
+  "version": "1.0.0",
+  "description": "Server for play hear app",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "sridharswain25@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
